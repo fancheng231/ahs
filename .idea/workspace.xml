@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb692a9e-5465-4b6f-8f4f-972c280f1d41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pages/usercenter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="bb692a9e-5465-4b6f-8f4f-972c280f1d41" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,22 +146,6 @@
               <item name="ahs" type="b2602c69:ProjectViewProjectNode" />
               <item name="ahs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ahs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ahs" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ahs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ahs" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ahs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ahs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,16 +233,15 @@
       <updated>1542953606772</updated>
       <workItem from="1542953608300" duration="8054000" />
       <workItem from="1543019653186" duration="623000" />
-      <workItem from="1543213384480" duration="2614000" />
+      <workItem from="1543213384480" duration="2696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11291000" />
+    <option name="totallyTimeSpent" value="11373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
