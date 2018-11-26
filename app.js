@@ -3,12 +3,13 @@ var swig = require('swig');
 var app = express()
 var router = express.Router()
 
+swig.setDefaults({cache: false})
 app.set('view cache', false)
 app.set('views', './views')
 app.set('view engine', 'html')
 app.engine('html', swig.renderFile)
 
-app.use('/static',express.static('public'))
+app.use('/static', express.static('public'))
 
 router.get('/', function (req, res, next) {
     res.render('index', {
